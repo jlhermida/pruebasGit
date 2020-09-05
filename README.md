@@ -10,4 +10,4 @@ Aqui voy a poner algunas notas de mi prueba con mi primer projecto de github
 ##### h5 Se refiere al tamaño de la letra
 Hay _personas_ que no estan *preparadas* para la **verdad**
 
-! [Akame Ga Kill] (https://m.media-amazon.com/images/M/MV5BZjU2ZDZkYmMtYTA3Yi00NTZkLTgzYjgtOTRhMTFiOWFkODZmXkEyXkFqcGdeQXVyNjkyODc3NjQ@._V1_UY1200_CR85,0,630,1200_AL_.jpg)
+![Akam] (https://m.media-amazon.com/images/M/MV5BZjU2ZDZkYmMtYTA3Yi00NTZkLTgzYjgtOTRhMTFiOWFkODZmXkEyXkFqcGdeQXVyNjkyODc3NjQ@._V1_UY1200_CR85,0,630,1200_AL_.jpg)
