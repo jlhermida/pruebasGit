@@ -16,4 +16,6 @@ Hay _personas_ que no estan *preparadas* para la **verdad**
 > Pensamiento personal.
 
 
-![Akame ga kill] (https://www.novedadesanime.com/wp-content/uploads/2019/06/akame_ga_kill__by_marcus_sen-d8a239n.png)
+![Akame ga kill](https://www.novedadesanime.com/wp-content/uploads/2019/06/akame_ga_kill__by_marcus_sen-d8a239n.png)
+
+[Ir a la Imagen](https://www.novedadesanime.com/wp-content/uploads/2019/06/akame_ga_kill__by_marcus_sen-d8a239n.png)
