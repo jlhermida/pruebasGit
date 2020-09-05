@@ -10,4 +10,4 @@ Aqui voy a poner algunas notas de mi prueba con mi primer projecto de github
 ##### h5 Se refiere al tamaño de la letra
 Hay _personas_ que no estan *preparadas* para la **verdad**
 
-![Akam] (https://toonami.fandom.com/wiki/Akame_Ga_Kill!?file=Akame_ga_Kill_Toonami.jpg)
+![Akame ga kill] (https://www.novedadesanime.com/wp-content/uploads/2019/06/akame_ga_kill__by_marcus_sen-d8a239n.png)
